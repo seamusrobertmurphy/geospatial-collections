@@ -3,7 +3,7 @@ import leafmap.foliumap as leafmap
 
 
 def app():
-    st.title("Streamlit for Geospatial Applications")
+    st.title("Wildfire Monitoring & Earth Engine Collections")
 
     st.markdown(
         """
