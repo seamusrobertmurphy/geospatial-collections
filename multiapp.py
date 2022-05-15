@@ -74,7 +74,7 @@ class MultiApp:
         st.sidebar.title("About")
         st.sidebar.info(
             """
-            This platform is adapted from the new Google Earth Earth Mapping "[application]
-            (https://github.com/giswqs) 
+            "This platform is adapted from the new Google Earth Earth Mapping "
+            "[application](https://github.com/giswqs). " 
         """
         )
