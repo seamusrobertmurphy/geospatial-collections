@@ -63,14 +63,6 @@ class MultiApp:
         # st.experimental_set_query_params(**st.session_state.to_dict())
         functions[titles.index(title)]()
 
-        st.sidebar.title("Contribute")
-        st.sidebar.info(
-            "This is an open source project and you are very welcome to contribute your "
-            "comments, questions, resources and apps as "
-            "[issues](https://github.com/giswqs/streamlit-geospatial/issues) or "
-            "[pull requests](https://github.com/giswqs/streamlit-geospatial/pulls) "
-            "to the [source code](https://github.com/giswqs/streamlit-geospatial). "
-        )
         st.sidebar.title("About")
         st.sidebar.info(
             "This platform was adapted using the Google Earth Earth Mapping "
