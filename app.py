@@ -9,7 +9,6 @@ from apps import (
     gee,
     gee_datasets,
     heatmap,
-    home,
     housing,
     plotly_maps,
     raster,
