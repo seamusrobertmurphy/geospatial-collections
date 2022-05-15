@@ -74,8 +74,7 @@ class MultiApp:
         st.sidebar.title("About")
         st.sidebar.info(
             """
-            This web [app](https://share.streamlit.io/giswqs/streamlit-geospatial/app.py) is maintained by [Qiusheng Wu](https://wetlands.io). You can follow me on social media:
-             [GitHub](https://github.com/giswqs) | [Twitter](https://twitter.com/giswqs) | [YouTube](https://www.youtube.com/c/QiushengWu) | [LinkedIn](https://www.linkedin.com/in/qiushengwu).
-            This web app URL: <https://streamlit.geemap.org>
+            This platform is adapted from the new Google Earth Earth Mapping "[application]
+            (https://github.com/giswqs) 
         """
         )
