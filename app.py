@@ -14,7 +14,7 @@ from apps import (
     timelapse,
     vector,
     wms,
-    xy,
+    xy
 )
 
 st.set_page_config(layout="wide")
