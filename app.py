@@ -26,7 +26,7 @@ apps = MultiApp()
 
 # Add all your application here
 
-apps.add_app("Home", home.app)
+
 apps.add_app("Create Timelapse", timelapse.app)
 apps.add_app("U.S. Real Estate Data", housing.app)
 apps.add_app("U.S. Census Data", census.app)
@@ -42,6 +42,7 @@ apps.add_app("Awesome GEE Community Datasets", gee_datasets.app)
 apps.add_app("Geolocation", device_loc.app)
 apps.add_app("Cesium 3D Map", cesium.app)
 apps.add_app("Plotly", plotly_maps.app)
+apps.add_app("Home", home.app)
 
 # The main app
 apps.run()
