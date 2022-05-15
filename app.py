@@ -45,3 +45,4 @@ apps.add_app("Plotly", plotly_maps.app)
 
 # The main app
 apps.run()
+
