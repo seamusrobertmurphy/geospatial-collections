@@ -65,7 +65,7 @@ class MultiApp:
 
         st.sidebar.title("About")
         st.sidebar.info(
-            "This platform was developed using the Google Earth Earth Mapping "
+            "This platform was developed using the Google Earth Engine "
             "[geemap application](https://github.com/giswqs). "
             
             "Find source code here: <https://github.com/seamusrobertmurphy/geospatial-collections>" 
